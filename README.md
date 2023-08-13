@@ -1,5 +1,4 @@
 ![logo](https://github.com/aboutSakib/aboutSakib/blob/main/1.png)
-<img  alt="coding" width="100%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ## Hi there 👋, My Name is Sakib Ahmed❤️
 #### Web Developer 💕
