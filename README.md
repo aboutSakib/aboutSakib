@@ -44,14 +44,5 @@ Hey 💖 I am sakib Ahmed,i am learning to javascript.❤️
 ![GitHub metrics](https://metrics.lecoq.io/aboutSakib)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aboutSakib)  
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
  
