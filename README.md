@@ -45,4 +45,7 @@ Hey 💖 I am sakib Ahmed,i am learning to javascript.❤️
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aboutSakib)  
 
+
+![snake gif](https://github.com/aboutSakib/aboutSakib/blob/output/github-contribution-grid-snake.svg)
+
  
