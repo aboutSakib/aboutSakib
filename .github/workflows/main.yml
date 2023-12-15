@@ -14,5 +14,5 @@ jobs:
           # Use this username's contribution graph
           user_name: heynazmul
           # Text on contribution graph
-          text: SAKIB ❤️
+          text: SAKIB AHMED
       - uses: jasineri/simple-push-action@v1
