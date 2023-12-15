@@ -1,4 +1,6 @@
-![SAKIB AHMED](gitartwork.svg)
+<div align="center>
+    ![SAKIB AHMED](gitartwork.svg)
+    </div>
 
 ![logo](https://github.com/aboutSakib/aboutSakib/blob/main/1.png)
 
