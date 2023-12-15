@@ -1,5 +1,6 @@
 <div align="center">
-    ![SAKIB](gitartwork.svg)
+![SAKIB](gitartwork.svg)
+   
 </div>
 
 ![logo](https://github.com/aboutSakib/aboutSakib/blob/main/1.png)
